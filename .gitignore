@@ -11,5 +11,6 @@ logs/
 
 src/test/java/org/kaoden/TestMatcher.java
 src/test/java/org/kaoden/TestTempDir.java
+src/test/java/org/kaoden/TestFiles.java
 
 target/
