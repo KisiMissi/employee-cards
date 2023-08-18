@@ -1,0 +1,6 @@
+firstName: John
+lastName: Doe
+description: A software engineer
+characteristics: Hardworking, Intelligent, Dedicated
+postId: 03f6e895-d6c4-4b3c-87db-aa5ddc0e00b9
+
